@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.card {
+    border: 5px solid #000000;
+    padding: 10px;
+    text-align: center;
+    width: 150px;
+    box-shadow: 10px 10px 10px #f7d076;
+    background-color: aqua;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
